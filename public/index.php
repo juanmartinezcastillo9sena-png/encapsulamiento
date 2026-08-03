@@ -1,5 +1,5 @@
 <?php
-require_once "../clases/persona.php";
+require_once "../app/models/persona.php";
 
 $persona1 = new persona("Juan", "28", "jj@gmail.com", "Martinez", "3010002023");
 $persona2 = new persona("Pedro","15","pp@gmail.com","Perdomo","1231564687");
